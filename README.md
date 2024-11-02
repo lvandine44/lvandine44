@@ -2,7 +2,7 @@
 ### Business Intelligence Analyst
 
 **Welcome to my GitHub profile!**
-I pride myself on my attention to detai, which has proven to be beneficial in this new world of data science. I am currently an intelligence analyst for ICON Health Sciences analyzing Big Pharma data. As of December 2024, I will have obtained my Masters of Science degree in Data Science and am curious to see where this new venture may take me in the world of data.
+I pride myself on my attention to detal, which has proven to be beneficial in this new world of data science. I am currently an intelligence analyst for ICON Health Sciences analyzing Big Pharma data. As of December 2024, I will have obtained my Masters of Science degree in Data Science and am curious to see where this new venture may take me in the world of data.
 
 ## 🎓 Education:
    - M.S. in Applied Data Science (University of San Diego, Dec 2024)
